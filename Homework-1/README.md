@@ -1,5 +1,5 @@
 # Miles-Technologies-Bootcamp
-##Homework 1
+## Homework 1
 
 	1.	Try creating a script for it for your database design. This will make the database much more maintainable. Try “Seeding” the table/add dummy data 
 
