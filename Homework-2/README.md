@@ -1,5 +1,5 @@
 # Miles-Technologies-Bootcamp
-## Homework 1
+## Homework 2
 
 <ol>
 <li>Complete the User story: There should be a way to track guests- their names, notes about them, birthdays, cakedays, and status - which can be any kind. Such as sick, fine, hangry, raging, placid. The guests should have classes and should have levels related to them. Ex. lvl 2 mage, lvl 3 fighter. ((linking table)). Also I no longer want to track rats.</li>
